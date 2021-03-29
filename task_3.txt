@@ -1,0 +1,9 @@
+Activity: Breakfast -> 14 times
+Activity: Toileting -> 44 times
+Activity: Grooming -> 51 times
+Activity: Sleeping -> 14 times
+Activity: Leaving -> 14 times
+Activity: Spare_Time/TV -> 77 times
+Activity: Showering -> 14 times
+Activity: Snack -> 11 times
+Activity: Lunch -> 9 times

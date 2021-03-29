@@ -1,0 +1,126 @@
+Day 1
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 2 times
+       Activity: Grooming happened 3 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 6 times
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 2
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 3 times
+       Activity: Grooming happened 4 times
+       Activity: Sleeping happened 1 time
+       Activity: Spare_Time/TV happened 7 times
+       Activity: Snack happened 1 time
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 3
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 3 times
+       Activity: Toileting happened 2 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 4 times
+       Activity: Showering happened 1 time
+Day 4
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 2 times
+       Activity: Toileting happened 4 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 6 times
+       Activity: Snack happened 2 times
+       Activity: Showering happened 1 time
+Day 5
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 5 times
+       Activity: Grooming happened 6 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 2 times
+       Activity: Spare_Time/TV happened 7 times
+       Activity: Snack happened 1 time
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 6
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 4 times
+       Activity: Toileting happened 3 times
+       Activity: Sleeping happened 1 time
+       Activity: Spare_Time/TV happened 5 times
+       Activity: Snack happened 1 time
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 7
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 6 times
+       Activity: Grooming happened 5 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 8 times
+       Activity: Snack happened 2 times
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 8
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 1 time
+       Activity: Grooming happened 5 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 4 times
+       Activity: Showering happened 1 time
+Day 9
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 2 times
+       Activity: Grooming happened 5 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 2 times
+       Activity: Spare_Time/TV happened 6 times
+       Activity: Showering happened 1 time
+Day 10
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 1 time
+       Activity: Grooming happened 4 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 2 times
+       Activity: Spare_Time/TV happened 3 times
+       Activity: Showering happened 1 time
+Day 11
+       Activity: Breakfast happened 1 time
+       Activity: Toileting happened 2 times
+       Activity: Grooming happened 3 times
+       Activity: Sleeping happened 1 time
+       Activity: Spare_Time/TV happened 3 times
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 28
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 2 times
+       Activity: Toileting happened 3 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 4 times
+       Activity: Snack happened 1 time
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 29
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 3 times
+       Activity: Toileting happened 4 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 6 times
+       Activity: Snack happened 1 time
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time
+Day 30
+       Activity: Breakfast happened 1 time
+       Activity: Grooming happened 2 times
+       Activity: Toileting happened 6 times
+       Activity: Sleeping happened 1 time
+       Activity: Leaving happened 1 time
+       Activity: Spare_Time/TV happened 8 times
+       Activity: Snack happened 2 times
+       Activity: Showering happened 1 time
+       Activity: Lunch happened 1 time

@@ -1,0 +1,3 @@
+Activity: Sleeping -> duration: 5 days, 11 hours, 3 minutes and 31 seconds
+Activity: Leaving -> duration: 1 day, 3 hours, 44 minutes and 44 seconds
+Activity: Spare_Time/TV -> duration: 5 days, 22 hours, 28 minutes and 55 seconds
